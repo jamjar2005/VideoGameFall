@@ -1,7 +1,3 @@
-# VideoGameFall
- Pygame game
-I made this game in Intro to Programming class at Bellarmine 
-
 # Sources: Mr. Cozort's Cource Code Files, Google search bar, W3 schools RGB calculator.
 # content from kids can code: http://kidscancode.org/blog/
 # import libraries and modules
